@@ -1,4 +1,4 @@
-# Coinbase My USDC | Frontend
+coinbase# Coinbase My USDC | Frontend
 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
